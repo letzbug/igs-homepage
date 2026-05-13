@@ -69,9 +69,16 @@ a{color:inherit;text-decoration:none}
 .dark .section-title p{color:#c8c0b1}
 .books-feature{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:stretch}
 .book-card{display:grid;grid-template-columns:210px 1fr;gap:34px;align-items:center}
-.book-cover{aspect-ratio:2/3;background:linear-gradient(135deg,#222,#777);box-shadow:var(--shadow);position:relative;overflow:hidden}
-.book-cover::after{content:"";position:absolute;inset:0;background:linear-gradient(110deg,transparent,rgba(255,255,255,.13),transparent);transform:translateX(-100%);animation:shine 5s infinite}
-@keyframes shine{50%,100%{transform:translateX(100%)}}
+.book-cover{
+    width:260px;
+    max-width:100%;
+    display:block;
+    background:none;
+    box-shadow:none;
+    position:relative;
+    overflow:visible;
+    filter:drop-shadow(0 25px 45px rgba(0,0,0,.28));
+}
 .book-title{font-family:"Cormorant Garamond", Georgia, serif;font-size:31px;line-height:1.08;margin:0 0 12px}
 .book-author{color:#4b443b;font-weight:700;margin-bottom:18px}
 .grid{display:grid;gap:24px}

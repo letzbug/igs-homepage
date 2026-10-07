@@ -16,4 +16,4 @@ Use PHP 8.2+ with `pdo_sqlite`, `fileinfo`, and `dom`. Set `IGSL_DATA_DIR` to a 
 
 ## Deployment
 
-The current Hostinger document root is `/home/u715391695/domains/luxxow.com/public_html/igsl`. Back up this directory and the sibling `igsl-data` directory before updates. Deploy PHP, CSS, JS, and `content/seed.json`; keep uploaded media and `igsl-data` intact. The site deliberately uses the existing assets and does not require a build step.
+The current Hostinger document root is `/home/u715391695/domains/luxxow.com/public_html/igsl`. Back up this directory and the private database directory at `/home/u715391695/domains/luxxow.com/igsl-data` before updates. Deploy PHP, CSS, JS, images, and `content/seed.json`; keep uploaded media and the private database intact. The site does not require a build step.

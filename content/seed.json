@@ -1,7 +1,7 @@
 {
   "settings": {
     "site_name": "Institut für Geschichte und Soziales",
-    "tagline": "Erinnerung bewahren. Forschung vermitteln. Geschichte sichtbar machen.",
+    "tagline": "Geschichte verstehen. Erinnerung gestalten.",
     "home_intro": "Forschung, politische Bildungsarbeit und engagierte Erinnerungspolitik in Luxemburg.",
     "home_hero": "assets/img/hero/hero-01.jpg",
     "contact_address": "26, rue du Laboratoire",
@@ -89,11 +89,11 @@
     ],
     [
       "Kathrin Mess (2024): Prostitution in Luxemburg während der nationalsozialistischen Okkupationszeit.",
-      "assets/img/books/book-frauen.png"
+      ""
     ],
     [
       "Kathrin Mess (2024): Die Verfolgung und Verhaftung von sogenannten „asozialen“ Personen in Luxemburg.",
-      "assets/img/books/book-frauen.png"
+      ""
     ],
     [
       "Kathrin Mess (2022): „Hier kommst du nie mehr raus“. Luxemburger Frauen im Zweiten Weltkrieg.",
@@ -101,23 +101,23 @@
     ],
     [
       "Kathrin Mess (2021): Luxemburger Frauen im Widerstand gegen das NS-Regime.",
-      "assets/img/books/book-frauen.png"
+      ""
     ],
     [
       "Kathrin Mess (2020): Yvonne Useldinger – Das KZ hat mich nicht umgekrempelt.",
-      "assets/img/books/book-frauen.png"
+      ""
     ],
     [
       "Kathrin Mess (2019): Kunst zwischen Widerstand, Zeugnis und Überlebensstrategie.",
-      "assets/img/books/book-frauen.png"
+      ""
     ],
     [
       "Kathrin Mess (2017): „Ich möchte so gerne überdauern...“ – Lilly Zielenziger.",
-      "assets/img/books/book-frauen.png"
+      ""
     ],
     [
       "Kathrin Mess (2008): Das Tagebuch der Luxemburgerin Yvonne Useldinger aus dem Frauen-KZ Ravensbrück.",
-      "assets/img/books/book-frauen.png"
+      ""
     ]
   ],
   "articles": [

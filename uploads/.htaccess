@@ -1,0 +1,5 @@
+Options -ExecCGI
+<FilesMatch "\.(php|phtml|phar|cgi|pl|sh|shtml)$">
+  Require all denied
+</FilesMatch>
+RemoveHandler .php .phtml .phar .cgi .pl .sh .shtml

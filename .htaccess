@@ -1,0 +1,5 @@
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule ^index\.html$ index.php [L]
+RewriteRule ^(aktuelles|ausstellungen|buecher|datenschutz|exkursionen|forschung|impressum|kontakt|presse|ueber-uns|vortraege|workshops)\.html$ page.php?slug=$1 [QSA,L]

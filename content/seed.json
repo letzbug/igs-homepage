@@ -1,0 +1,153 @@
+{
+  "settings": {
+    "site_name": "Institut für Geschichte und Soziales",
+    "tagline": "Erinnerung bewahren. Forschung vermitteln. Geschichte sichtbar machen.",
+    "home_intro": "Forschung, politische Bildungsarbeit und engagierte Erinnerungspolitik in Luxemburg.",
+    "home_hero": "assets/img/hero/hero-01.jpg",
+    "contact_address": "26, rue du Laboratoire",
+    "contact_email": "IGSL@email.de",
+    "contact_phone": "+352 621 11 11 11"
+  },
+  "pages": {
+    "ausstellungen": {
+      "title": "Ausstellungen",
+      "intro": "Unser Verein verleiht Ausstellungen zur Luxemburger Resistenz gegen die Besatzung durch das NS-System.",
+      "body": "<section class=\"section\"><div class=\"container prose\">\n<p>Auch in Luxemburg gab es zunächst nicht viele Menschen, die sich aktiv gegen das NS-Regime engagierten. Von ihnen waren etwa die Hälfte Frauen aus den verschiedenen Gegenden Luxemburgs. Ihre Aktivitäten waren so vielfältig wie die Frauen es selbst auch waren. Bis heute sind ihre Widerstandsaktivitäten weniger bekannt als die vieler Männer. Unsere ASBL hat sich zum Ziel gesetzt, sie in der Öffentlichkeit bekannt zu machen und in einer würdigen Form an sie zu erinnern.</p>\n<p>Bitte kontaktieren Sie uns, wenn Sie Interesse an einer unserer Ausstellungen haben.</p>\n<div class=\"accordion\">\n<div class=\"acc-item open\"><div class=\"acc-head\"><h3>Als glitt ich durch der Zeiten Schoß – Vergessene Luxemburger Resistenzlerinnen</h3><span>+</span></div><div class=\"acc-content\"><ul><li>12 Tafeln mit jeweils 12 Biografien plus französische Version</li><li>Dibond, 200 cm x 90 cm</li><li>Deutsch / Französisch</li><li>Transport, Organisation, Aufbau und Abbau</li><li>Eröffnung mit Vortrag und Führungen</li><li>Preis auf Anfrage</li></ul></div></div>\n<div class=\"acc-item\"><div class=\"acc-head\"><h3>Ich finde keine Worte mehr... – Zeichnungen von Yvonne Useldinger</h3><span>+</span></div><div class=\"acc-content\"><ul><li>15 Tafeln mit Handreichung für pädagogische Anleitungen</li><li>Dibond, 200 cm x 90 cm</li><li>Sprache: Deutsch</li><li>Vortrag: Kunst als Überlebensmittel im Frauen-KZ Ravensbrück</li><li>Führungen für Schulen, Gemeinden und Gruppen</li></ul></div></div>\n<div class=\"acc-item\"><div class=\"acc-head\"><h3>„Zeit auf dieser Welt ist ja nur ein kurzer Durchgang“ – Lily Unden</h3><span>+</span></div><div class=\"acc-content\"><ul><li>Bildermenge nach Absprache, 2 biografische Tafeln</li><li>Dibond, 200 cm x 90 cm</li><li>Deutsch / Französisch</li><li>Eröffnung mit Vortrag zur Resistenzlerin Lily Unden</li></ul></div></div>\n</div></div></section>",
+      "hero_image": "assets/img/sections/ausstellungen.jpg"
+    },
+    "forschung": {
+      "title": "Forschung",
+      "intro": "Aktuelle Projekte, biografische Forschung und historische Dokumentation.",
+      "body": "<section class=\"section\"><div class=\"container prose\">\n<h2 class=\"serif\">Helene Hiertz und Antonio – Eine Geschichte vom Leben und Überleben</h2>\n<p>Kurz nach der Besetzung Luxemburgs durch das nationalsozialistische Deutschland engagierte sich Helene Hiertz im Widerstand. Sie versorgte und versteckte junge Luxemburger Refraktäre. Nach dem Verrat ihrer Widerstandsgruppe wurde sie deportiert und kam als politische Gefangene in das Konzentrationslager Ravensbrück.</p>\n<p>Trotz der lebensfeindlichen Situation wollten sich die Frauen Würde und Menschlichkeit bewahren. Über nationale Grenzen hinweg entdeckten sie eine Gemeinsamkeit: die Leidenschaft für das Kochen. Sie tauschten Rezepte aus und schrieben sie auf.</p>\n<p>Das geplante Buchprojekt dokumentiert die Bedeutung des Essens als roter Faden im Leben von Helene Hiertz: Versorgung im Widerstand, Rezeptesammeln im Konzentrationslager und später die Gründung eines Restaurants in Luxemburg mit Antonio Pretti.</p>\n<a class=\"btn\" href=\"kontakt.html\">Projekt anfragen</a>\n</div></section>",
+      "hero_image": "assets/img/sections/forschung.jpg"
+    },
+    "vortraege": {
+      "title": "Vorträge",
+      "intro": "Sie können bei uns Vorträge zu verschiedenen historischen und gesellschaftlichen Themen buchen.",
+      "body": "<section class=\"section\"><div class=\"container\"><div class=\"grid grid-3\">\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>„Für Widerstand gibt es keine Gebrauchsanweisung...“ – Luxemburger Frauen im Widerstand gegen das NS-Regime.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article>\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>„Wenn ich nur einen Bleistift und Papier haben könnte...“ – Lily Unden in Ravensbrück.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article>\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>„...als fiele ein Sonnenschein in meine einsame Zelle.“ – Das Tagebuch der Yvonne Useldinger.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article>\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>Yvonne Useldinger – eine Luxemburger Kommunistin im Frauen-KZ Ravensbrück.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article>\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>„Lieber sterben, als ein Wort verraten...“ – Frauen aus der Grenzregion im Widerstand.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article>\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>„Noch heute quält mich die Erinnerung...“ – Gerd Klestadt als Junge im KZ Bergen-Belsen.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article>\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>„... bittet gehorsamst das Bordell besuchen zu dürfen“ – Sexuelle Gewalt in NS-Konzentrationslagern.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article>\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>„Man muss an das Leben glauben und nicht an den Tod“ – Zeitzeuginnen berichten.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article>\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>„N. ist als arbeitsscheues und asoziales Element anzusehen“ – Stigmatisierung und Verfolgung.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article>\n<article class=\"content-card\"><div class=\"content-body\"><div class=\"kicker\">Vortrag</div><h3>„Ich würde so gerne überdauern...“ – Lilly Zielenziger in Bergen-Belsen.</h3><p>Mit Fotos, historischen Quellen und kontextueller Einordnung.</p><a class=\"link\" href=\"kontakt.html\">Anfragen →</a></div></article></div></div></section>",
+      "hero_image": "assets/img/sections/vortraege.jpg"
+    },
+    "workshops": {
+      "title": "Workshops / Schulen",
+      "intro": "Geschichte verstehen, Fragen stellen und Erinnerung gemeinsam weitertragen.",
+      "body": "<!-- =========================\n     HERO\n========================= -->\n\n\n\n\n\n<!-- =========================\n     INTRO\n========================= -->\n\n<section class=\"section soft\">\n\n  <div class=\"container\">\n\n\n    <div class=\"section-title\">\n\n      <h2>Bildungsangebote</h2>\n\n      <div class=\"gold-line\"></div>\n\n      <p>\n        Unsere Seminare und Workshops richten sich an Jugendliche,\n        Schulklassen und Erwachsene. Historische Zusammenhänge,\n        biografische Zugänge und die aktive Auseinandersetzung\n        mit Geschichte stehen dabei im Mittelpunkt.\n      </p>\n\n    </div>\n\n\n\n    <div class=\"grid grid-2 education-intro\">\n\n\n      <!-- SEMINARE -->\n\n      <article class=\"content-card\">\n\n        <div class=\"content-body\">\n\n          <div class=\"kicker\">\n            90 Minuten\n          </div>\n\n          <h3>Seminare</h3>\n\n          <p>\n            Unsere Seminare richten sich an Jugendliche von 14 bis 20 Jahren\n            sowie an Erwachsene.\n          </p>\n\n          <p>\n            Neben einer fundierten Einführung stehen didaktische Übungen,\n            gemeinsame Reflexion sowie die Fragen und Ideen der\n            Teilnehmenden im Mittelpunkt.\n          </p>\n\n          <p>\n            Gerne übernehmen wir auch die Vor- und Nachbereitung von\n            Gedenkstättenbesuchen.\n          </p>\n\n          <a class=\"link\" href=\"#seminare\">\n            Themen entdecken ↓\n          </a>\n\n        </div>\n\n      </article>\n\n\n\n      <!-- WORKSHOPS -->\n\n      <article class=\"content-card\">\n\n        <div class=\"content-body\">\n\n          <div class=\"kicker\">\n            180 Minuten\n          </div>\n\n          <h3>Workshops</h3>\n\n          <p>\n            Unsere Workshops bieten mehr Raum für eigenständiges und\n            aktives Arbeiten.\n          </p>\n\n          <p>\n            Die Schüler:innen recherchieren, reflektieren historische\n            Fragestellungen und entwickeln eigene Ergebnisse,\n            die anschließend gemeinsam präsentiert und diskutiert werden.\n          </p>\n\n          <p>\n            Dadurch können Themen ausführlicher und intensiver\n            behandelt werden.\n          </p>\n\n          <a class=\"link\" href=\"#workshops\">\n            Themen entdecken ↓\n          </a>\n\n        </div>\n\n      </article>\n\n\n    </div>\n\n  </div>\n\n</section>\n\n\n\n<!-- =========================\n     SEMINARE\n========================= -->\n\n<section class=\"section\" id=\"seminare\">\n\n  <div class=\"container\">\n\n\n    <div class=\"section-title\">\n\n      <h2>Seminare</h2>\n\n      <div class=\"gold-line\"></div>\n\n      <p>\n        90 Minuten · für Jugendliche von 14 bis 20 Jahren sowie Erwachsene\n      </p>\n\n    </div>\n\n\n\n    <div class=\"accordion\">\n\n\n      <!-- SEMINARTHEMEN -->\n\n      <div class=\"acc-item\">\n\n        <div class=\"acc-head\">\n\n          <h3>Unsere Seminarthemen</h3>\n\n          <span>+</span>\n\n        </div>\n\n\n        <div class=\"acc-content\">\n\n          <ul>\n\n            <li>\n              Luxemburger Frauen im Zweiten Weltkrieg zwischen Widerstand,\n              Verfolgung und Inhaftierung\n            </li>\n\n            <li>\n              Das Frauen-Konzentrationslager Ravensbrück und seine\n              Nebenlager in Geschichte und Gegenwart\n            </li>\n\n            <li>\n              Biografische Forschungen:\n              Vergessene Luxemburger Resistenzlerinnen\n            </li>\n\n            <li>\n              Gerd Klestadt als Häftling im Konzentrationslager Bergen-Belsen\n            </li>\n\n            <li>\n              Nürnberger Gesetze und Kriegsverbrecherprozesse\n            </li>\n\n            <li>\n              Als „asozial“ stigmatisierte und verfolgte Häftlinge\n              während des Zweiten Weltkriegs\n            </li>\n\n            <li>\n              Schreiben unter extremen Bedingungen:\n              Tagebücher aus NS-Konzentrationslagern\n            </li>\n\n            <li>\n              „Dann habe ich keinen Hunger mehr gespürt...“ –\n              Kunst als Überlebensmittel in NS-Konzentrationslagern\n            </li>\n\n            <li>\n              Die Luxemburger Resistenzlerin und Künstlerin Lily Unden\n            </li>\n\n            <li>\n              Die Luxemburger Resistenzlerin Madeleine Weis-Bauler\n            </li>\n\n            <li>\n              Die Kommunistin Yvonne Useldinger\n              im Konzentrationslager Ravensbrück\n            </li>\n\n          </ul>\n\n        </div>\n\n      </div>\n\n\n\n      <!-- GEDENKSTÄTTEN -->\n\n      <div class=\"acc-item\">\n\n        <div class=\"acc-head\">\n\n          <h3>\n            Vor- und Nachbereitung von Gedenkstättenbesuchen\n          </h3>\n\n          <span>+</span>\n\n        </div>\n\n\n        <div class=\"acc-content\">\n\n          <p>\n            Gerne bereiten wir Schulklassen auf den Besuch einer\n            Gedenkstätte vor.\n          </p>\n\n          <p>\n            Ebenso wichtig kann eine anschließende Nachbereitung sein,\n            damit Schüler:innen ihre Eindrücke, Beobachtungen und Fragen\n            einordnen und nachhaltig verarbeiten können.\n          </p>\n\n        </div>\n\n      </div>\n\n\n    </div>\n\n  </div>\n\n</section>\n\n\n\n<!-- =========================\n     WORKSHOPS\n========================= -->\n\n<section class=\"section soft\" id=\"workshops\">\n\n  <div class=\"container\">\n\n\n    <div class=\"section-title\">\n\n      <h2>Workshops</h2>\n\n      <div class=\"gold-line\"></div>\n\n      <p>\n        180 Minuten · vertiefend, aktivierend und mit Raum für eigene Recherche\n      </p>\n\n    </div>\n\n\n\n    <div class=\"accordion\">\n\n\n      <!-- WORKSHOP THEMEN -->\n\n      <div class=\"acc-item\">\n\n        <div class=\"acc-head\">\n\n          <h3>Unsere Workshop-Themen</h3>\n\n          <span>+</span>\n\n        </div>\n\n\n        <div class=\"acc-content\">\n\n          <ul>\n\n            <li>\n              Luxemburger Frauen im Zweiten Weltkrieg zwischen Widerstand,\n              Verfolgung und Inhaftierung\n            </li>\n\n            <li>\n              Das Frauen-Konzentrationslager Ravensbrück und seine\n              Nebenlager in Geschichte und Gegenwart\n            </li>\n\n            <li>\n              Biografische Forschungen:\n              Vergessene Luxemburger Resistenzlerinnen\n            </li>\n\n            <li>\n              Gerd Klestadt als Häftling im Konzentrationslager Bergen-Belsen\n            </li>\n\n            <li>\n              Erinnerung an die Nürnberger Gesetze und die\n              Nürnberger Kriegsverbrecherprozesse\n            </li>\n\n            <li>\n              Als „asozial“ stigmatisierte und verfolgte Häftlinge\n              während des Zweiten Weltkriegs\n            </li>\n\n            <li>\n              Schreiben unter extremen Bedingungen:\n              Tagebücher aus NS-Konzentrationslagern\n            </li>\n\n            <li>\n              Zeitzeugenberichte von Luxemburger Frauen\n              aus dem Zweiten Weltkrieg\n            </li>\n\n            <li>\n              „Dann habe ich keinen Hunger mehr gespürt...“ –\n              Kunst als Überlebensmittel im Konzentrationslager\n            </li>\n\n            <li>\n              Werkstatt Kunst und Geschichte\n            </li>\n\n          </ul>\n\n        </div>\n\n      </div>\n\n\n\n      <!-- ARBEITSWEISE -->\n\n      <div class=\"acc-item\">\n\n        <div class=\"acc-head\">\n\n          <h3>Wie arbeiten wir in den Workshops?</h3>\n\n          <span>+</span>\n\n        </div>\n\n\n        <div class=\"acc-content\">\n\n          <p>\n            Durch die längere Dauer können historische Themen\n            ausführlicher behandelt werden.\n          </p>\n\n          <p>\n            Die Teilnehmenden arbeiten mit Quellen, Biografien,\n            Bildern und weiteren historischen Materialien.\n          </p>\n\n          <p>\n            Sie recherchieren selbst, diskutieren ihre Beobachtungen,\n            entwickeln eigene Fragestellungen und präsentieren\n            anschließend Ergebnisse ihrer Arbeit.\n          </p>\n\n        </div>\n\n      </div>\n\n\n    </div>\n\n  </div>\n\n</section>\n\n\n\n<!-- =========================\n     INDIVIDUELLE ANGEBOTE\n========================= -->\n\n<section class=\"section dark\">\n\n  <div class=\"container\">\n\n\n    <div class=\"section-title\">\n\n      <h2>Individuelle Angebote</h2>\n\n      <div class=\"gold-line\"></div>\n\n      <p>\n        Sie haben besondere Wünsche oder möchten ein Thema\n        an Ihre Schulklasse, Gruppe oder Veranstaltung anpassen?\n      </p>\n\n      <p>\n        Sprechen Sie uns gerne an. Inhalte, Schwerpunkte und Ablauf\n        können gemeinsam auf Ihre Bedürfnisse abgestimmt werden.\n      </p>\n\n\n      <div style=\"margin-top:30px\">\n\n        <a class=\"btn\" href=\"kontakt.html\">\n          Kontakt aufnehmen\n        </a>\n\n      </div>\n\n    </div>\n\n  </div>\n\n</section>",
+      "hero_image": "assets/img/sections/workshops.jpg"
+    },
+    "presse": {
+      "title": "Pressestimmen",
+      "intro": "Artikel, Rezensionen und mediale Stimmen zu unseren Projekten.",
+      "body": "<section class=\"section\"><div class=\"container timeline\">\n<div class=\"timeline-item\"><strong>2026</strong><div><h3 class=\"serif\">Neue Rezension</h3><p>Hier kann ein kurzer Pressetext mit Link oder PDF eingefügt werden.</p></div></div>\n<div class=\"timeline-item\"><strong>2025</strong><div><h3 class=\"serif\">Artikel zur Ausstellung</h3><p>Hier können Zeitungsartikel, Scans oder externe Links gesammelt werden.</p></div></div>\n</div></section>",
+      "hero_image": "assets/img/news/rezension.jpg"
+    },
+    "exkursionen": {
+      "title": "Exkursionen",
+      "intro": "Vorbereitung, Organisation und Begleitung von Gedenkstättenfahrten.",
+      "body": "<section class=\"section\"><div class=\"container prose\"><p>Unsere ASBL bereitet Schülergruppen auf Reisen in Gedenkstätten mittels Seminaren und Workshops vor. Besonders empfehlenswert ist eine Fahrt in die Gedenkstätte Ravensbrück, wo die pädagogische Abteilung seit vielen Jahren Schülergruppen intensiv betreut.</p><p>2025 haben wir mit der École nationale pour adultes eine Fahrt in die Gedenkstätten Ravensbrück und Sachsenhausen vorbereitet, organisiert und durchgeführt.</p></div></section>\n<section class=\"section soft\"><div class=\"container\"><div class=\"grid grid-3\"><img src=\"assets/img/gallery/ravensbrueck.JPG\"><img src=\"assets/img/gallery/sachsenhausen.JPG\"><img src=\"assets/img/gallery/dokumente.JPG\"></div></div></section>",
+      "hero_image": "assets/img/hero/hero_01.jpg"
+    },
+    "impressum": {
+      "title": "Impressum",
+      "intro": "Diese Seite kann später mit den rechtlichen Angaben ergänzt werden.",
+      "body": "<section class='section'><div class='container prose'><p>Inhalt hier einfügen.</p></div></section>",
+      "hero_image": "assets/img/sections/forschung.jpg"
+    },
+    "ueber-uns": {
+      "title": "Über uns",
+      "intro": "Forschung, Bildungsarbeit und engagierte Erinnerungspolitik.",
+      "body": "<section class=\"section\"><div class=\"container prose\">\n<p>Das Institut für Geschichte und Soziales ASBL verbindet Forschung zu historischen und sozialgeschichtlichen Themen mit politischer Bildungsarbeit und engagierter Erinnerungspolitik. Uns eint das gemeinsame Interesse an Geschichte allgemein, sozialen Prozessen und der Geschichte Luxemburgs im Besonderen.</p>\n<p>Ein wichtiger Schwerpunkt ist unser Engagement, den Widerstand gegen den Nationalsozialismus von Frauen aus der Grenzregion Luxemburg – Deutschland – Frankreich und Belgien zu erforschen und zu vermitteln.</p>\n<h2 class=\"serif\">Unsere Arbeitsschwerpunkte</h2>\n<ul class=\"list-clean\"><li>Geschichte des 2. Weltkriegs und Nachkriegsgeschichte, DDR-Geschichte</li><li>Luxemburger Frauen-Geschichte</li><li>Luxemburger Frauen in NS-Konzentrationslagern</li><li>Gedenkstättenpädagogik</li><li>Literatur und Zeitzeugendokumente aus und über NS-Konzentrationslager</li><li>Künstlerisches Schaffen in NS-Konzentrationslagern</li><li>Biographieforschung, Interviews</li><li>Konzeption und Durchführung von historischen Ausstellungen und Kunstausstellungen</li><li>Geschichte der Sozialen Arbeit</li></ul>\n</div></section>",
+      "hero_image": "assets/img/hero/hero-01.jpg"
+    },
+    "kontakt": {
+      "title": "Kontakt",
+      "intro": "Nehmen Sie Kontakt mit uns auf.",
+      "body": "<section class=\"section\"><div class=\"container prose\"><p><strong>Adresse:</strong> 26, rue du Laboratoire</p><p><strong>E-Mail:</strong> IGSL@email.de</p><p><strong>Telefon:</strong> +352 621 11 11 11</p></div></section>",
+      "hero_image": "assets/img/sections/workshops.jpg"
+    },
+    "datenschutz": {
+      "title": "Datenschutz",
+      "intro": "Diese Seite kann später mit den rechtlichen Angaben ergänzt werden.",
+      "body": "<section class='section'><div class='container prose'><p>Inhalt hier einfügen.</p></div></section>",
+      "hero_image": "assets/img/sections/forschung.jpg"
+    },
+    "aktuelles": {
+      "title": "Aktuelles",
+      "intro": "Vorträge, Rezensionen, Ausstellungen und Veranstaltungen auf einen Blick.",
+      "body": "",
+      "hero_image": "assets/img/news/vortrag.jpg"
+    },
+    "buecher": {
+      "title": "Bücher",
+      "intro": "Publikationen des Instituts und weitere wissenschaftliche Arbeiten.",
+      "body": "<section class=\"section\"><div class=\"container prose\"><p>Unser Institut hat verschiedene Publikationen selbst hergestellt und an vielen weiteren mitgearbeitet. Einige Bücher können direkt bei uns erworben werden. Bitte wenden Sie sich dafür an: <strong>IGSL@email.de</strong></p></div></section>",
+      "hero_image": "assets/img/sections/buecher.jpg"
+    }
+  },
+  "books": [
+    [
+      "Kathrin Mess (2024): „Noch heute quält mich die Erinnerung...“. Gerd Klestadt als Junge in Bergen-Belsen.",
+      "assets/img/books/book-klestadt.png"
+    ],
+    [
+      "Kathrin Mess (2024): Prostitution in Luxemburg während der nationalsozialistischen Okkupationszeit.",
+      "assets/img/books/book-frauen.png"
+    ],
+    [
+      "Kathrin Mess (2024): Die Verfolgung und Verhaftung von sogenannten „asozialen“ Personen in Luxemburg.",
+      "assets/img/books/book-frauen.png"
+    ],
+    [
+      "Kathrin Mess (2022): „Hier kommst du nie mehr raus“. Luxemburger Frauen im Zweiten Weltkrieg.",
+      "assets/img/books/book-frauen.png"
+    ],
+    [
+      "Kathrin Mess (2021): Luxemburger Frauen im Widerstand gegen das NS-Regime.",
+      "assets/img/books/book-frauen.png"
+    ],
+    [
+      "Kathrin Mess (2020): Yvonne Useldinger – Das KZ hat mich nicht umgekrempelt.",
+      "assets/img/books/book-frauen.png"
+    ],
+    [
+      "Kathrin Mess (2019): Kunst zwischen Widerstand, Zeugnis und Überlebensstrategie.",
+      "assets/img/books/book-frauen.png"
+    ],
+    [
+      "Kathrin Mess (2017): „Ich möchte so gerne überdauern...“ – Lilly Zielenziger.",
+      "assets/img/books/book-frauen.png"
+    ],
+    [
+      "Kathrin Mess (2008): Das Tagebuch der Luxemburgerin Yvonne Useldinger aus dem Frauen-KZ Ravensbrück.",
+      "assets/img/books/book-frauen.png"
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Für Widerstand gibt es keine Gebrauchsanweisung...",
+      "kind": "Vortrag",
+      "summary": "15. Juni 2026, 19:00 Uhr · Kulturhaus, Esch-sur-Alzette",
+      "image": "assets/img/news/vortrag.jpg",
+      "link": "aktuelles.html"
+    },
+    {
+      "title": "Als glitt ich durch der Zeiten Schoß",
+      "kind": "Ausstellung",
+      "summary": "20. Mai – 30. Juni 2026 · Maison de la Culture, Arlon",
+      "image": "assets/img/news/ausstellung.jpg",
+      "link": "ausstellungen.html"
+    },
+    {
+      "title": "Neue Rezension zu „Ein Junge überlebt Bergen-Belsen“",
+      "kind": "Rezension",
+      "summary": "Tageblatt · 08. Mai 2026",
+      "image": "assets/img/news/rezension.jpg",
+      "link": "presse.html"
+    },
+    {
+      "title": "Gedenkveranstaltung Ravensbrück",
+      "kind": "Veranstaltung",
+      "summary": "30. April 2026, 17:00 Uhr · Gedenkstätte Ravensbrück",
+      "image": "assets/img/news/veranstaltung.jpg",
+      "link": "aktuelles.html"
+    }
+  ]
+}

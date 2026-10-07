@@ -6,7 +6,7 @@ The public site runs on PHP 8 with SQLite. It keeps the original HTML pages in t
 
 Open `https://igsl.luxxow.com/admin/`. The console edits the homepage, all interior pages, books, articles, and uploaded media. A new book or article with no external link gets its own detail page. Unchecking **Auf der Website sichtbar** archives an item without deleting it.
 
-The password hash and content database are stored in `igsl-data` outside the public document root. Never add either to Git. Set or rotate the editor password through the protected secret intake, piping it to `php app/set-password.php` on the server. The script accepts exactly 8 characters and writes only a hash. The login rate limit remains five attempts per IP per 15 minutes.
+The password hash and content database are stored in `igsl-data` outside the public document root. Never add either to Git. Set or rotate the editor password through the protected secret intake, piping it to `php app/set-password.php` on the server. The script accepts 6–8 characters and writes only a hash. The login rate limit remains five attempts per IP per 15 minutes.
 
 The original source contains placeholder contact details and unfinished `Impressum` and `Datenschutz` pages. The institute should replace those through the console with verified details and approved legal text.
 
